@@ -1,8 +1,8 @@
 ## Preconditions
 
--[] Read guidelines
--[] Test in all browsers
--[] ...
+- [ ] Read guidelines
+- [ ] Test in all browsers
+- [ ] ...
 
 ## Description
 
