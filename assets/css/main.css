@@ -2256,19 +2256,19 @@ input, select, textarea {
 		text-shadow: 1px 1px 1px #000;
 	}
 	
-/* One */
+/* o-que-faço */
 
-	#one {
-		background: url("images/overlay.png"), url("../../images/Hunedoara_castle.jpg");
+	#o-que-faço {
+		background: url("images/overlay.png"), url("../../images/forest_snow_winter.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
 
-/* Two */
+/* quem-sou */
 
-	#two {
-		background: url("images/overlay.png"), url("../../images/forest_snow_winter.jpg");
+	#quem-sou {
+		background: url("images/overlay.png"), url("../../images/Hunedoara_castle.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
